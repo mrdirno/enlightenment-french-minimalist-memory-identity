@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-minimalist-memory-identity",
+  "title": "The White Room of Rue des Blancs-Manteaux",
+  "tagline": "A professional un-rememberer must reconstruct a life from twelve fragments—then destroy the story he creates.",
+  "target_words": 70000,
+  "actual_words": 74834,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Forgetting",
+    "The Violence of Minimalism",
+    "Objects as Memory Vessels",
+    "Paris as a Palimpsest"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Solvent Light",
+      "words": 3110
+    },
+    {
+      "ch": 2,
+      "title": "The Triplicate Existence",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Courtyard Well",
+      "words": 2800
+    },
+    {
+      "ch": 4,
+      "title": "Twelve Fragments",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Negative Space",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "The Café de Flore Ghost",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Locked Notebook",
+      "words": 3050
+    },
+    {
+      "ch": 8,
+      "title": "The Provençal Scent",
+      "words": 2850
+    },
+    {
+      "ch": 9,
+      "title": "The Concierge's Knitting",
+      "words": 2750
+    },
+    {
+      "ch": 10,
+      "title": "The Signet Ring's Smudge",
+      "words": 3150
+    },
+    {
+      "ch": 11,
+      "title": "A System Falters",
+      "words": 3300
+    },
+    {
+      "ch": 12,
+      "title": "The First Narrative",
+      "words": 3400
+    },
+    {
+      "ch": 13,
+      "title": "The Second Letter",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Missing Arm",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "Walking the Seine",
+      "words": 2850
+    },
+    {
+      "ch": 16,
+      "title": "The Third Suit",
+      "words": 2750
+    },
+    {
+      "ch": 17,
+      "title": "The Photograph Develops",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "The Father's Voice",
+      "words": 3350
+    },
+    {
+      "ch": 19,
+      "title": "The Hammer's Weight",
+      "words": 3050
+    },
+    {
+      "ch": 20,
+      "title": "The Corridor's Echo",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The Final Object",
+      "words": 3600
+    },
+    {
+      "ch": 22,
+      "title": "The Story Complete",
+      "words": 3450
+    },
+    {
+      "ch": 23,
+      "title": "The Dismantling",
+      "words": 3800
+    },
+    {
+      "ch": 24,
+      "title": "The Empty Table",
+      "words": 2974
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where the protagonist encounters a new 'client' whose collection of objects tells a story that directly mirrors a suppressed memory of his own.",
+      "Create a chapter from the perspective of Madame Leclerc, the concierge, as she observes Julien and pieces together her own theory about the white room and its purpose.",
+      "Write a 'found document'—the contents of the locked leather-bound notebook from the table, revealing a secret that changes Julien's interpretation.",
+      "Imagine a prequel story showing Julien's first commission as a *débarrasseur* and the traumatic event that led him to adopt his minimalist system."
+    ],
+    "technical": [
+      "Build an interactive 'White Room' website where users can click on 12 minimalist objects to reveal fragments of a story, then rearrange them to form different narratives.",
+      "Create a text-based game where the player, as Julien, must walk through Parisian streets making observational choices that affect their 'psychic noise' level and ability to interpret the objects."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Alain Robbe-Grillet",
+      "Marguerite Duras",
+      "Georges Perec",
+      "Anne Carson"
+    ]
+  },
+  "cover_prompt": "A solitary man in a stark white suit meticulously arranges twelve disparate objects on a vast, empty table within a minimalist Parisian apartment, his expression one of intense, clinical focus, [the objects—a single key, a faded metro ticket, a pressed flower, a broken watch—glow with faint, ethereal light against the severe whiteness], in the atmospheric style of Hiroshi Sugimoto's conceptual clarity and the precise, haunting emptiness of Candida Höfer's architectural interiors, book cover framing, perfectly centered and symmetrical composition viewed from a high, dramatic angle looking down upon the scene as if observing an experiment, [chilling, shadowless clinical lighting with a palette of arctic whites, pale greys, and muted concrete, punctuated only by the subtle, warm glow emanating from the memory-objects], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
